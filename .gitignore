@@ -32,10 +32,6 @@ jspm_packages/
 # Optional stylelint cache
 .stylelintcache
 
-# dotenv environment variables file
-.env
-.env.test
-.env.production
 
 # Build output
 dist/
